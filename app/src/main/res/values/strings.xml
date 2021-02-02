@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Authorization by Малахов</string>
+    <string name="auth">Авторизация</string>
+    <string name="login">Вход</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login1">Андрей - KBT1</string>
+    <string name="login2">Антон - KBT2</string>
+    <string name="login3">Максим - KBT3</string>
+    <string name="login4">Виктор - KBT4</string>
+    <string name="login5">Сергей - KBT5</string>
+    <string name="developer">Разработчик Малахов Максим</string>
+    <string name="help">Помощь</string>
+    <string name="welcome">Добро пожаловать, </string>
+    <string name="exit">Выход</string>
+</resources>
